@@ -3,4 +3,4 @@ Generated from
 - 478M 10k nodes
 - 197M 5k nodes
 WDL 0.75
-After 160 super batches
+After 50 super batches
